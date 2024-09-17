@@ -26,8 +26,6 @@ w2i ; Whisper before interacting with me. (Though I won't force).
 
 tc ; Touch Comfort. I'm a very clingy or needy person, so I really want someone to cuddle/sit with me, Nuzzle me, or boop. (Don't have to btw! More Comfortable with friends doing this, but I won't mind.) (❀❛ ֊ ❛„)♡
 
-c+h ; Cuddles and hide. Can sit next to me, boop me, and hide behind me, I don't mind. (˶ᵔ ᵕ ᵔ˶)
-
 int ; Talk with me! Though I am shy, I still can chat, But I am random with what I talk about. 
 
 comf , Kin ; Comfort Character / Character I kin or find relatable. 
@@ -38,7 +36,7 @@ afk ; Away from my keyboard, so I'm either eating or not looking.
 
 offtab ; On a different tab, So I'm not watching / looking.
 
-editing ; Editing a character or making one, so I'm not watching / looking.
+editing ; Editing a character or making one, so I'm not watching / looking. (˶ᵔ ᵕ ᵔ˶)
 
 DNI!! ; *Don't* Interact with me at the moment please. That involves no touching, talking with me, or booping.
 
