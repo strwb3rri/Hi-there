@@ -5,7 +5,7 @@ This is mostly for ponytown.
 
 I mostly cosplay Regretevator (kinda), PHIGHTING!, or Sprunki.
 
-Some other fandoms I'm in are Pressure, Mlp, DW, WOF, BSD, and a few more.
+Some other fandoms I'm in are Pressure, Mlp, DW, WOF, BSD, and HfjONE.
 
 ────୨ৎ────
 
