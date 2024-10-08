@@ -7,6 +7,8 @@ I mostly cosplay Regretevator (kinda), PHIGHTING!, or Sprunki.
 
 Some other fandoms I'm in are Pressure, Mlp, DW, WOF, BSD, and HfjONE.
 
+I'm mostly in the PHIGHTING! area of ponytown.
+
 ────୨ৎ────
 
 Tags I might have in PonyTown 
@@ -30,6 +32,19 @@ offtab ; On a different tab.
 editing ; Editing a character or making one.
 
 DNI!! ; *Don't* Interact with me at the moment please. That involves no touching, talking with me, or booping.
+
+DNIUF / DNIUCF ; Do not Interact unless you are a friend or close friend of mine.
+
+WIP ; Something that's a work in progress.
+
+DNC ; Do Not. Copy my pony skins.
+
+FANDOM DNI ; I don't want a specific fandom to interact with me.
+
+DNTUF / DNIUCF ; Do not touch me unless you are a friend or close friend of mine.
+
+RPDNI ; I don't want be asked to rp or rp. (I don't do it anyway so this might just be useless to put here.)
+
 
 ────୨ৎ────
 
