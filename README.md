@@ -17,7 +17,7 @@ Tags I might have in PonyTown
 
 w2i ; Whisper before interacting with me.
 
-tc ; Touch Comfort. I'm a very clingy or needy person, so I really want someone to cuddle/sit with me, Nuzzle me, or boop. (More Comfortable with friends doing this, but I won't mind.)
+tc ; Touch Comfort. Very comfortable with touch.
 
 C+H ; Cuddles and Hide.
 
@@ -43,7 +43,7 @@ DNC ; Do Not. Copy my pony skins.
 
 FANDOM DNI ; I don't want a specific fandom to interact with me.
 
-DNTUF / DNIUCF ; Do not touch me unless you are a friend or close friend of mine.
+DNTUF / DNTUCF ; Do not touch me unless you are a friend or close friend of mine.
 
 RPDNI ; I don't want be asked to rp or rp. (I don't do it anyway so this might just be useless to put here.)
 
